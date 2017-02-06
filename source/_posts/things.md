@@ -7,7 +7,7 @@ This is a living post about the top *Things* that I do, Read, Watch and essentia
 
 - Pranayama & Foley Breathing
 - Sun Salutation
-- Living Quantic Food
+- Quantic Living Food
 - Consultancy
 - Project Management
 - Studies 

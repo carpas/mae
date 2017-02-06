@@ -1,0 +1,17 @@
+GIT_WORK_TREE=/home/rafzdv/webapps/mae_node git checkout -f develop
+
+
+GIT_WORK_TREE=/home/rafzdv/webapps/mae_git/mae.git git checkout -f develop
+
+git remote add devlocation ssh://web557.webfaction.com/home/rafzdv/webapps/mae_git/mae.git 
+
+rafzdv@
+
+ss
+
+git remote add live ssh://rafzdv@web557.webfaction.com/home/rafzdv/webapps/mae_git/mae.git 
+
+
+git remote add webfaction -f rafzdv@web557.webfaction.com/home/rafzdv/webapps/mae_git/mae.git 
+
+git remote set-url webfaction rafzdv@web557.webfaction.com/home/rafzdv/webapps/mae_git/mae.git 
