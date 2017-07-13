@@ -1,17 +1,15 @@
 ---
 title: Things
 ---
-This is a living post about the top *Things* that I do, Read, Watch and essentially, love. 
+This is a *living post* about the top things that I Do, Read, Watch and essentially, love. 
 
 # Do
 
-- Pranayama & Foley Breathing
-- Sun Salutation
-- Quantic Living Food
+- Yoga
+- Living Food
 - Consultancy
 - Project Management
 - Studies 
-
 
 
 # Read
@@ -21,6 +19,7 @@ This is a living post about the top *Things* that I do, Read, Watch and essentia
 - Effortless Life
 - Buddah and The Quantum
 - How Music Works
+- Tao Te King
 - Why We Want You To Be Rich
 - The Corporate Mystic
 - Good to Great
@@ -35,21 +34,16 @@ This is a living post about the top *Things* that I do, Read, Watch and essentia
 # Watch
 
 - La Belle Verte
-- Mathtology Videos
 - Tomorrowland
 - Zeitgeist
 - Who We Are
 
-# Study
+# Studies
 
-- Computer Engeneering
-- Mindvalley Courses
+- Udacity
+- Mindvalley 
 
-# Subscribe
+# Subscriptions
 - Google Drive
 - Google Play Music
 - Trello Gold
-
-# Support
-
-- ZeroNet
